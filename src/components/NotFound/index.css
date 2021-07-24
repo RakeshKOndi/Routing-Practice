@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.notFound-container {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.notFound-image {
+  width: 200px;
+}
+
+.notFound-heading {
+  color: #551e53;
+  font-size: 50px;
+}

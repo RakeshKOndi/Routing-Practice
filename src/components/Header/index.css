@@ -1,0 +1,40 @@
+/* Write your CSS code here */
+* {
+  font-family: 'Roboto';
+  color: #12022f;
+}
+
+.nav-header {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+}
+
+.title-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 30px;
+  margin-right: 8px;
+}
+
+.title-heading {
+  font-weight: Bold;
+  font-size: 20px;
+}
+
+.links-container {
+  display: flex;
+  justify-content: space-around;
+  width: 250px;
+  list-style-type: none;
+  padding: 0;
+  font-weight: Bold;
+  font-size: 20px;
+}
+
+.nav-link {
+  text-decoration: none;
+}

@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.about-container {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-image {
+  width: 200px;
+}
+
+.about-heading {
+  color: #551e53;
+  font-size: 50px;
+}
